@@ -1,4 +1,4 @@
--- AIRBNB TABLES
+
 
 Create table User(
 user_id int (Primary Key) -- Unique identifier for each user
